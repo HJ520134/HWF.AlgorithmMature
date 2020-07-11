@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="NetReflector" Version="1.1.2009" />
-  </ItemGroup>
-
 </Project>
