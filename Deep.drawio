@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T06:52:19.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V8cSisTtRMuyNE_Tk2Fz" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-12T05:32:44.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AwtQKgWlG93AG48W1deu" version="22.1.18" type="github" pages="5">
   <diagram name="第 1 页" id="Z85Dky3bpkn6bDT_2l9I">
-    <mxGraphModel dx="1420" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFF66" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFF66" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,6 +583,134 @@
         </mxCell>
         <mxCell id="1XkCQpNweMDOGNJKU-Cr-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="1XkCQpNweMDOGNJKU-Cr-63" target="1XkCQpNweMDOGNJKU-Cr-91">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X8emDy11BLXtqnyDs205" name="第 5 页">
+    <mxGraphModel dx="1886" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-1" target="cPARASzrVoAjCqaVzJ8M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-11" value="ADFS认证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;rounded=0;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-8">
+          <mxGeometry x="0.1239" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-9" value="北森瑞云认证" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-1" target="cPARASzrVoAjCqaVzJ8M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-1" value="北森系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-2" target="cPARASzrVoAjCqaVzJ8M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-43" value="北森（不关注）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-37">
+          <mxGeometry x="-0.3412" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-2" value="网页端浏览器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-3" target="cPARASzrVoAjCqaVzJ8M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-44" value="北森（不关注）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-21">
+          <mxGeometry x="-0.3314" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-3" value="瑞云PC端&amp;amp;移动端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-5" value="BPM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-47" value="单点认证" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#996185;fillColor=#e6d0de;rounded=0;labelBackgroundColor=none;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-48" target="cPARASzrVoAjCqaVzJ8M-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-48" target="cPARASzrVoAjCqaVzJ8M-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-77" value="北森组装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-70">
+          <mxGeometry x="-0.1941" y="-3" relative="1" as="geometry">
+            <mxPoint x="-42" y="-42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-48" value="北森" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-49" value="消息待办" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-50" target="cPARASzrVoAjCqaVzJ8M-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-64" value="瑞云处理后跳转北森" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-60">
+          <mxGeometry x="-0.3232" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-50" value="网页端(BPM)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="717" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-52" target="cPARASzrVoAjCqaVzJ8M-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-65" value="瑞云系统&amp;amp;BPM（北森无关）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-61">
+          <mxGeometry x="-0.4874" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="-59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-52" target="cPARASzrVoAjCqaVzJ8M-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-74" value="待办跳转北森" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-73">
+          <mxGeometry x="-0.3774" y="2" relative="1" as="geometry">
+            <mxPoint x="20" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-52" value="瑞云系统PC&amp;amp;移动端" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="717" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-53" value="北森的消息待办" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-57" target="cPARASzrVoAjCqaVzJ8M-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-75" value="北森推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-59">
+          <mxGeometry x="-0.0955" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-57" value="携带ADFS认证&lt;br&gt;&amp;amp;&lt;br&gt;携带瑞云系统认证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" edge="1" parent="1" source="cPARASzrVoAjCqaVzJ8M-69" target="cPARASzrVoAjCqaVzJ8M-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-76" value="北森推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;rounded=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="cPARASzrVoAjCqaVzJ8M-71">
+          <mxGeometry x="-0.121" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-69" value="携带北森瑞云认证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-80" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="830" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cPARASzrVoAjCqaVzJ8M-81" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="1110" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
